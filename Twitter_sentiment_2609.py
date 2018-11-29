@@ -20,10 +20,10 @@ def percentage(part, whole):
 ## Connecting with the Twitter API ##
     
 # Importing the keys #
-consumerKey = "EgcDPlHQgzc4Hnopf8ieOCOYB"
-consumerSecret = "ELwgDcHXnGuKzoN9MJ0OaaOp48Sbul12fz7okii7DRuqJNZWVP"
-accessToken = "2799246222-6TM8SUexSyxOoUNqflKATstFtkqK8zynLjhMUjS"
-accessTokenSecret = "YSX8c60sNyla41KpjH3SFQr4ZKUIzMPYcDt86SyvmvEUH"
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessTokenSecret = ""
 
 # Establish the connection with API #
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
